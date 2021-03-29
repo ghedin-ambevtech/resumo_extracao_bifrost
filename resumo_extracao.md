@@ -30,17 +30,21 @@ Após a atualização dos códigos fonte e copybooks no fonte seguro, executar o
 
 Com a nova configuração os arquivos de dump serão gerados em pastas específicas por UNB no ambiente relacionado e configurado para execução do processo.
 
+![Estrutura canaa](./estrutura_canaa.png)
+
 A estrutura básica é:
 
 ```unix
     /ambiente/canaa/[unb]/
 ```
 
-Nesse endereço encontramos as pastas: json, log, run, tmp
+Nesse endereço encontramos as pastas: json, log, run, tmp.
+
+![Estrutura canaa pastas](./estrutura_canaa_pastas.png)
 
 Quando um processo está em execução, o arquivo de dump pode aparecer temporariamente na pasta temp.
 
-Após finalizado o processo, se for executado sem erros, o arquivo será gravado na pasta run/disabled.
-Se houver algum erro, na pasta run/error.
+Após finalizado o processo, se for executado sem erros, o arquivo será gravado no diretório run/disabled.
+Se houver algum erro, no diretório run/error.
 
-Se todos os processos forem executados com sucesso, será gerado o arquivo na pasta json com as informações já disponíveis em um formato aceito para gravação na base da dados do bifrost.
+Se todos os processos forem executados com sucesso, será gerado o arquivo no diretório json com as informações já disponíveis em um formato aceito para gravação na base da dados do bifrost.
