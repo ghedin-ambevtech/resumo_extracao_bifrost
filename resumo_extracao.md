@@ -21,8 +21,12 @@ Todas as configurações de ambiente estão detalhadas no link abaixo:
   - [Geração do xls](https://dev.azure.com/AMBEV-SA/AMBEV-BIFROST/_wiki/wikis/Bifrost/2682/Modelando-a-Entidade)
 
 - Gerar documentos para alteração de pontos chave para estrutura de extração de dados:
+
   - [Code Generator](https://dev.azure.com/AMBEV-SA/AMBEV-BIFROST/_wiki/wikis/Bifrost/2582/Code-Gen-Extra%C3%A7%C3%A3o)
   - [Search and Edit](https://dev.azure.com/AMBEV-SA/AMBEV-BIFROST/_wiki/wikis/Bifrost/2586/Search-and-Edit-Extra%C3%A7%C3%A3o)
+
+- Verificar as configurações do arquivo de filas estão corretas para gerar XML corretamente.
+  - [Configurar fila](https://dev.azure.com/AMBEV-SA/AMBEV-BIFROST/_wiki/wikis/Bifrost/806/7-Alterar-CONFIG_CANAA.XML)
 
 #### Execução e Gravação do Dump
 
