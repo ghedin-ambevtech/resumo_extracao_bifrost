@@ -26,7 +26,12 @@ Todas as configurações de ambiente estão detalhadas no link abaixo:
   - [Search and Edit](https://dev.azure.com/AMBEV-SA/AMBEV-BIFROST/_wiki/wikis/Bifrost/2586/Search-and-Edit-Extra%C3%A7%C3%A3o)
 
 - Verificar as configurações do arquivo de filas estão corretas para gerar XML corretamente.
+
   - [Configurar fila](https://dev.azure.com/AMBEV-SA/AMBEV-BIFROST/_wiki/wikis/Bifrost/806/7-Alterar-CONFIG_CANAA.XML)
+
+- Verificar se o projeto 367 está ativo para a UNB de testes através da tela 07.22.13 do Promax
+
+![promax](./promax.png)
 
 #### Execução e Gravação do Dump
 
