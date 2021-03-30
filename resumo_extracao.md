@@ -29,7 +29,7 @@ Todas as configurações de ambiente estão detalhadas no link abaixo:
 
   - [Configurar fila](https://dev.azure.com/AMBEV-SA/AMBEV-BIFROST/_wiki/wikis/Bifrost/806/7-Alterar-CONFIG_CANAA.XML)
 
-- Verificar se o projeto 367 está ativo para a UNB de testes através da tela 07.22.13 do Promax
+- Verificar se o projeto 367 está habilitado para a UNB de testes através da tela 07.22.13 do Promax
 
 ![promax](./promax.png)
 
